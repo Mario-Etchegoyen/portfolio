@@ -1,3 +1,8 @@
 body{
-  background-image:url(../imagenes/puente\ con\ tormenta.jpg)
+  background-image:url(../imagenes/puente\ con\ tormenta.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  text-align: center;
+  color:antiquewhite;
 }
+
